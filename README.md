@@ -26,11 +26,11 @@ Rice (Oryza sativa L.) is a staple crop globally, but its productivity is signif
    - Output: sequencing quality reports
 
 3. **Alignment**
-   - Tool: HISAT2 / STAR
+   - Tool: HISAT2
    - Output: SAM/BAM files
 
 4. **Quantification**
-   - Tool: featureCounts
+   - Tool: HTSeq
    - Output: gene count matrix
 
 5. **Differential Expression Analysis**
@@ -73,4 +73,6 @@ Rice (Oryza sativa L.) is a staple crop globally, but its productivity is signif
 ## Key Insights
 This study highlights the role of NAC transcription factors, particularly LOC_Os03g60080, in mediating rice responses to drought and salinity stress. The integration of transcriptomic and regulatory analysis provides insights into candidate genes for stress-resilient crop development.
 
-## Repository Structure
+## Notes
+- Raw sequencing data is not included due to size limitations.
+- Data can be accessed via NCBI SRA (accession IDs provided in scripts).
