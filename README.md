@@ -16,6 +16,7 @@ Rice (Oryza sativa L.) is a staple crop globally, but its productivity is signif
 ## Data Source
 - Public RNA-Seq datasets retrieved from NCBI Sequence Read Archive (SRA)
 - Rice varieties: Pokkali (salt-tolerant) and N22 (drought-tolerant)
+- Datasets taken from Bioproject PRJEB47431 (Gour et al., 2022) for N22 (drought) and PRJEB4671 (Geniza, 2017) for Pokkali (salinity).
 
 ## Pipeline
 1. **Data Acquisition**
